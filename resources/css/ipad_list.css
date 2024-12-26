@@ -1,0 +1,223 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0;
+	background-image:url(../img/ipad_list_bg.png);
+	background-repeat:repeat;
+	
+	}
+.div_title{
+	background-image: url(../img/ipad_list_title_bg_blue.png);
+	background-repeat:repeat-x;
+	/*width:1536px;*/
+	height:88px;
+	padding-top:12px;
+	margin:auto;
+	
+	}
+.div_title_back{
+	float:left;
+	width:10%;
+	text-align:left;
+	padding-left:10px;
+
+	}
+
+.div_title_name{
+	float:left;
+	font-family:"微软雅黑", "宋体";
+	font-size:48px;
+	color: #FFF;
+	font-weight:bold;
+	width:80%;
+	text-align:center;
+
+	}
+.div_title_check{
+	text-align:right;
+	padding-right:20px;
+	}
+.div_banner{
+	height:40px;
+	font-family:"微软雅黑", "宋体";
+	font-size:32px;
+	color: red;
+	background-color:#1ff;
+
+	}
+.div_list_1{
+	/*width:1502px;*/
+	background-color:#fff;
+	margin:15px auto;
+	padding-top:10px;
+    height:auto!important; height:180px; min-height:180px
+	}
+	
+.div_list_1_logo{
+	float:left;
+	margin-top:10px;
+	border-right:#a0a0a0 solid 1px;
+	width: 150px;
+	height: 150px;
+
+	}	
+	
+.div_list_1_font{
+	float:left;
+	width:70%;
+	margin-top:40px;
+	margin-left:20px;
+
+	}
+	
+.div_list_1_font_1{
+	
+	font-family:"微软雅黑", "宋体";
+	font-size:40px;
+	color: #000;
+	border-bottom:#a0a0a0 solid 1px;
+	padding-bottom:10px;
+
+	}
+.div_list_1_font_2{
+	
+	font-family:"微软雅黑", "宋体";
+	font-size:30px;
+	color: #adaaaa;
+	padding-top:10px;
+
+	}
+	
+.div_list_1_font_2 a{
+	font-family:"微软雅黑", "宋体";
+    font-size:30px;
+    color: #ffffff;
+    text-decoration:none;
+    padding-top:10px;
+    }
+
+.div_list_1_download{
+	text-align:center;
+	margin-top:40px;
+	float:left;
+	}
+.div_list_1_download_div {
+	float: left;
+	overflow: hidden;
+}
+.div_list_1_download_div a {
+	display: block;
+}
+.contentid { 
+	margin-top: 10px; 
+	width:95%; 
+	border: 1px solid #CCC; 
+	background: #F1F1F1; 
+	padding: 15px; 
+	font-size:24px;
+	}
+.none { display: none; }	
+	
+	
+	
+
+
+.div_middle{
+	background-color:#FFF;
+	margin:-12px auto;
+	/*width:1536px;*/
+	height:1960px;
+
+	}
+	
+.div_middle_1{
+	height:30px;
+	border-bottom:#b4b4b5 solid 1px;
+	
+	
+	
+	}
+	
+.div_middle_2{
+	height:1000px;
+	
+	
+	}
+	
+	
+.div_middle_3{
+	margin-top:50px;
+	margin-left:50px;
+	
+	
+	}
+	
+	
+.div_middle_2{
+	padding-top:30px;
+	padding-left:20px;
+	height:800px;
+
+	}	
+	
+.div_middle_2_left{
+	float:left;
+	border-right:#b4b4b5 solid 1px;
+	height:780px;
+	width:250px;
+    padding-top: 5px;
+	}	
+.div_middle_2_left_font{
+
+	font-family:"微软雅黑", "宋体";
+	font-size:20px;
+	color: #000;
+	margin-top:50px;
+	margin-left:15px;
+	line-height:40px;
+
+    }
+.div_middle_2_left_img{
+	margin-top:120px;
+	margin-left:30px;
+
+	}
+.div_middle_2_left_img img{
+	max-width: 190px;
+	max-height: 190px;
+}
+.div_middle_2_right{
+	padding-top:5px;
+	
+	}	
+.div_middle_2_right_1{
+	padding-top:5px;
+	font-family:"微软雅黑", "宋体";
+	font-size:60px;
+	color: #000;
+	margin-left:290px;
+	border-bottom:#000 solid 1px;
+	
+
+	}
+.div_middle_2_right_2{
+	margin-left: 290px;
+	margin-top: 10px;
+}
+.div_middle_2_right_2_img{
+	border-bottom:#b4b4b5 solid 1px;
+	margin-top:30px;
+	/*margin-left:450px;
+	width:1000px;*/
+	}
+.div_middle_2_right_2_font{
+	font-family:"微软雅黑", "宋体";
+	font-size:20px;
+	color: #6f6d6d;
+	padding-left:450px;
+	margin-top:20px;
+	padding-right:50px;
+	line-height:35px;
+    padding-left: 10px;
+	}
